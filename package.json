@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "DarkDays122",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "ErayMusk",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.0.0",
+    "child_process": "^1.0.2",
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^5.1.0",
+    "giveaways": "^1.2.3",
+    "mathjs": "^11.5.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^3.3.0",
+    "opusscript": "^0.0.8",
+    "quick.db": "^9.0.8",
+    "snekfetch": "^4.0.4"
+  }
+}
